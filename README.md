@@ -1,5 +1,5 @@
    <h1 align="center">Hi 👋, I'm Karthick R </h1>
-   <h3 align="center">A passionate ECE Engineer/ Developer </h3>
+   <h3 align="center">Aspiring ECE Student / Passionate Web Developer </h3>
    
    <img align="right" alt="GIF" src="https://github.com/rkkarthi07/rkkarthi07/blob/main/hi.gif?raw=true" width="400" height="300" />
     
