@@ -16,7 +16,7 @@
     
 <h3 align="left">Connect with me:</h3> <p align="left"> <a
         style="padding: 10px"
-        href="//linkedin.com/in/karthick-rk07"
+        href="https://www.linkedin.com/in/karthick-rk07/"
         target="blank"
         ><img
           align="center"
@@ -38,7 +38,7 @@
       /></a>
       <a
         style="padding: 10px"
-        href="https://www.leetcode.com/rk_karthi_07"
+        href="https://leetcode.com/rk_karthi_07/"
         target="blank"
         ><img
           align="center"
