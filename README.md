@@ -1,11 +1,13 @@
-   <h1 align="center">Hi 👋, I'm Karthick R </h1>
-   <h3 align="center">Aspiring ECE Student / Passionate Web Developer </h3>
-   
+`   <h1 align="center">Hi 👋, I'm Karthick R </h1>
+<p align="center">
+        <a href="https://github.com/rkkarthi07/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com/?lines=ECE %20Student;Passionate %20Web %20Developer;Learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=22" /></a>
+      </p>
    <img align="right" alt="GIF" src="https://github.com/rkkarthi07/rkkarthi07/blob/main/hi.gif?raw=true" width="400" height="300" />
     
  - 🔗 This is my [portfolio](https://rkkarthi07.github.io/My_Portfolio/)
   
- - 🔭 I’m currently studying Python
+ - 🔭 I’m currently learning Python
    
  - 📫 How to reach me **rkkarthick68@gmail.com**
  
