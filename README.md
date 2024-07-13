@@ -6,12 +6,10 @@
    <img align="right" alt="GIF" src="https://github.com/rkkarthi07/rkkarthi07/blob/main/hi.gif?raw=true" width="400" height="300" />
     
  - 🔗 This is my [portfolio](https://rkkarthi07.github.io/My_Portfolio/)
-  
- - 🔭 I’m currently learning Python
    
  - 📫 How to reach me **rkkarthick68@gmail.com**
  
- - ⚡ Solved Leetcode 300+ programs
+ - ⚡ Solved Leetcode 600+ programs
    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkkarthi07&label=Profile%20views&color=0e75b6&style=flat" alt="rkkarthi07"/> </p>
